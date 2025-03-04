@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Rider\\TestGit\\TestGit\\TestGit.csproj": {}
+    "C:\\Users\\Admin\\RiderProjects\\TestGit\\TestGit\\TestGit.csproj": {}
   },
   "projects": {
-    "D:\\Rider\\TestGit\\TestGit\\TestGit.csproj": {
+    "C:\\Users\\Admin\\RiderProjects\\TestGit\\TestGit\\TestGit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Rider\\TestGit\\TestGit\\TestGit.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\RiderProjects\\TestGit\\TestGit\\TestGit.csproj",
         "projectName": "TestGit",
-        "projectPath": "D:\\Rider\\TestGit\\TestGit\\TestGit.csproj",
+        "projectPath": "C:\\Users\\Admin\\RiderProjects\\TestGit\\TestGit\\TestGit.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Rider\\TestGit\\TestGit\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\RiderProjects\\TestGit\\TestGit\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
